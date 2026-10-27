@@ -1,0 +1,1 @@
+Mini working tools based on HBR 20 Minute Manager Series
